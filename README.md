@@ -1,16 +1,10 @@
-# ffmpeg_waves
+# FFMPEG Waves
 
-A new Flutter project.
+A demo project, that uses FFMPEG to display frequencies of an online audio stream
 
-## Getting Started
+> [!IMPORTANT]  
+> This project is currently work in progress. Any detail of it may change in the future
 
-This project is a starting point for a Flutter application.
+![Screen Recording 2024-01-11 at 21 16 47](https://github.com/mobtophop/ffmpeg_waves/assets/145994644/923b73da-159e-4f5d-a938-147833a9dbc1)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-01-11 at 21 15 20](https://github.com/mobtophop/ffmpeg_waves/assets/145994644/a1f1915e-2a91-4796-b7b7-e62a0bb3741a)
